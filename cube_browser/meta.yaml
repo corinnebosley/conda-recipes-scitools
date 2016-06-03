@@ -18,6 +18,7 @@ requirements:
         - ipywidgets 5.1*
         - iris 1.10*
         - matplotlib
+        - traits
 
 build:
     script:
